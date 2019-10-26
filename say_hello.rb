@@ -3,3 +3,4 @@
 def say_hello
   puts "Gabriella"
 end
+say_hello
